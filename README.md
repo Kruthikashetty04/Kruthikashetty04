@@ -1,102 +1,114 @@
 <div align="center">
 
-# 👋 Hey, I'm Kruthika K C
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=35&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Hey+there!+I'm+Kruthika+K+C+👋;MSc+Data+Science+Student+🧠;Exploring+LLMs+%26+RAG+🤖;Building+AI-Powered+Solutions+🚀" />
 
-### Building AI systems that can learn, retrieve, and reason.
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3NnMGRwYTF4MDR0c2VvN3Z0c2pwMzh6eTZ6Y2M5YnQ0OWM1Ym5uNiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif" width="350"/>
 
 </div>
 
 ---
 
-## 🧠 Currently Exploring
+# 🚀 About Me
 
-```text
-🔹 Large Language Models (LLMs)
-🔹 Retrieval-Augmented Generation (RAG)
-🔹 NLP & Information Retrieval
-🔹 Machine Learning
-🔹 AI Engineering
+```python
+class Kruthika:
+
+    education = "MSc Data Science"
+
+    learning = [
+        "Large Language Models",
+        "RAG",
+        "Generative AI",
+        "Machine Learning"
+    ]
+
+    interests = [
+        "AI",
+        "NLP",
+        "Data Science",
+        "Research"
+    ]
+
+    motto = "Learn. Build. Repeat."
 ```
 
 ---
 
-## 🚀 What I'm Working Towards
+## ⚡ Tech Universe
 
-```text
-Today:
-  Learning how AI understands language
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode" />
+</p>
 
-Next:
-  Building intelligent assistants
-
-Future:
-  Creating AI systems that solve real-world problems
-```
+<p align="center">
+🧠 Machine Learning &nbsp; • &nbsp;
+🤖 LLMs &nbsp; • &nbsp;
+📚 RAG &nbsp; • &nbsp;
+🔍 NLP &nbsp; • &nbsp;
+📊 Data Analytics
+</p>
 
 ---
 
-## ⚒️ Tech Toolbox
+## 🌱 Currently Learning
 
-🐍 Python
-
-🗄️ SQL
-
-📊 Data Analysis
-
-🧠 Machine Learning
-
-🔍 NLP
-
-🤖 LLMs
-
-📚 RAG
-
-🔧 Git & GitHub
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kruthikashetty04&theme=tokyo-night" />
 
 ---
 
 ## 🌍 Languages
 
-🇮🇳 Kannada (Native)
+🗣️ Kannada — Native
 
-🇮🇳 Tulu (Native)
+🗣️ Tulu — Native
 
-🇬🇧 English (Professional)
+🗣️ English — Professional
 
-🇮🇳 Hindi (Conversational)
-
----
-
-## ☕ Beyond Coding
-
-📖 Reading about AI and emerging technologies
-
-🎵 Music
-
-✈️ Exploring new places
-
-📝 Learning in public
+🗣️ Hindi — Conversational
 
 ---
 
-## 💭 My Philosophy
+## 🎯 Mission 2026
 
-> "The future belongs to those who learn faster than the world changes."
-
----
-
-## 📫 Connect
-
-📧 [kruthikashetty020@gmail.com](mailto:kruthikashetty020@gmail.com)
-
-🐙 github.com/Kruthikashetty04
-
-💼 Open to AI, Data Science, and Research collaborations
+```text
+[██████████░░░░░░░░░] Learning LLMs
+[████████░░░░░░░░░░░] Mastering RAG
+[██████░░░░░░░░░░░░░] Building AI Products
+[████░░░░░░░░░░░░░░░] AI Research
+```
 
 ---
 
-### ⚡ One Line About Me
+## 📫 Connect With Me
 
-*"Curious about data, fascinated by language, driven by AI."*
+<p align="center">
+<a href="mailto:kruthikashetty020@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge"/>
+</a>
+
+<a href="https://github.com/Kruthikashetty04">
+<img src="https://img.shields.io/badge/GitHub-Kruthikashetty04-black?style=for-the-badge&logo=github"/>
+</a>
+</p>
+
+---
+
+<div align="center">
+
+### 🐍 Contribution Snake
+
+![Snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💭 Random Thought
+
+> "The future isn't AI versus humans. It's AI with humans."
+
+<img src="https://komarev.com/ghpvc/?username=Kruthikashetty04&label=Profile+Views&color=blueviolet&style=for-the-badge"/>
 
 </div>
