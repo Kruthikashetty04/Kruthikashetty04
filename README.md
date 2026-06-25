@@ -1,10 +1,10 @@
 <div align="center">
 
-# Hi 👋, I'm Kruthika K C
+# 👋 Hi, I'm Kruthika K C
 
-### Turning data into stories, and stories into intelligent systems.
+### 🧠 Building at the intersection of Data Science, AI, and Human Intelligence
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&center=true&vCenter=true&width=700&lines=MSc+Data+Science+Student;Exploring+LLMs+and+RAG;Building+AI-Powered+Applications;Learning+Something+New+Every+Day)](https://git.io/typing-svg)
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&center=true&vCenter=true&width=700&lines=MSc+Data+Science+Student;Exploring+LLMs+and+RAG;Building+AI-Powered+Applications;Learning+Something+New+Every+Day" />
 
 </div>
 
@@ -14,67 +14,99 @@
 
 ```yaml
 Name: Kruthika K C
-Education: MSc Data Science
 
-Interests:
-  - Artificial Intelligence
+Education:
+  MSc Data Science
+
+Current Focus:
+  - Large Language Models (LLMs)
+  - Retrieval-Augmented Generation (RAG)
+  - Generative AI
   - Machine Learning
-  - Large Language Models
-  - Retrieval-Augmented Generation
 
-Currently Learning:
-  - LLMs
-  - RAG
-  - AI Engineering
-
-Goal:
-  Build intelligent systems that solve real-world problems
+Mission:
+  Turning data into insights and ideas into intelligent solutions
 ```
 
 ---
 
-## 🧠 Current Focus
+## 🚀 Current Journey
 
-- 🤖 Exploring Generative AI
-- 📚 Learning advanced RAG architectures
-- 🔍 Building AI-powered applications
-- 🚀 Growing as a Data Scientist
+```text
+Python ────────────────●
+Data Analysis ─────────●
+Machine Learning ──────●
+NLP ───────────────────●
+LLMs ──────────────────●
+RAG ───────────────────●
+AI Engineering ────────○
+```
 
 ---
 
 ## ⚒️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode" />
 </p>
 
 <p align="center">
-Machine Learning • Data Analysis • NLP • LLMs • RAG
+🧠 Machine Learning • 📊 Data Analysis • 🔍 NLP • 🤖 LLMs • 📚 RAG
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 🌍 Languages
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=kruthikshetty04&show_icons=true&theme=tokyonight" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kruthikshetty04&layout=compact&theme=tokyonight" />
-</p>
+🇮🇳 Kannada — Native
+
+🇮🇳 Tulu — Native
+
+🇬🇧 English — Professional
+
+🇮🇳 Hindi — Conversational
 
 ---
 
-## 🌱 Philosophy
+## ☕ Beyond Tech
 
-> Data reveals patterns.  
-> AI discovers possibilities.  
-> Curiosity creates innovation.
+📚 Reading about AI and emerging technologies
+
+🎵 Listening to music
+
+✈️ Exploring new places
+
+🧩 Solving real-world problems through technology
+
+---
+
+## 🧩 My Mindset
+
+✨ Stay Curious
+
+📖 Learn Continuously
+
+🤝 Share Knowledge
+
+🚀 Build Useful Things
+
+🎯 Focus on Impact
+
+---
+
+## 💭 Philosophy
+
+> "Data reveals patterns.
+> AI discovers possibilities.
+> Curiosity creates innovation."
 
 ---
 
 ## 📫 Connect With Me
 
-- 📧 kruthikashetty020@gmail.com
-- 🐙 GitHub: https://github.com/kruthikshetty04
+📧 Email: **[kruthikashetty020@gmail.com](mailto:kruthikashetty020@gmail.com)**
+
+🐙 GitHub: **https://github.com/kruthikshetty04**
 
 ---
 
@@ -82,6 +114,6 @@ Machine Learning • Data Analysis • NLP • LLMs • RAG
 
 ### ⚡ Fun Fact
 
-*"I don't just train models — I train myself to think beyond them."*
+*"I'm fascinated by how machines learn, retrieve knowledge, and generate ideas."*
 
 </div>
