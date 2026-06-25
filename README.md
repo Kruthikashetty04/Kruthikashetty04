@@ -1,119 +1,102 @@
 <div align="center">
 
-# 👋 Hi, I'm Kruthika K C
+# 👋 Hey, I'm Kruthika K C
 
-### 🧠 Building at the intersection of Data Science, AI, and Human Intelligence
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&center=true&vCenter=true&width=700&lines=MSc+Data+Science+Student;Exploring+LLMs+and+RAG;Building+AI-Powered+Applications;Learning+Something+New+Every+Day" />
+### Building AI systems that can learn, retrieve, and reason.
 
 </div>
 
 ---
 
-## ✨ About Me
-
-```yaml
-Name: Kruthika K C
-
-Education:
-  MSc Data Science
-
-Current Focus:
-  - Large Language Models (LLMs)
-  - Retrieval-Augmented Generation (RAG)
-  - Generative AI
-  - Machine Learning
-
-Mission:
-  Turning data into insights and ideas into intelligent solutions
-```
-
----
-
-## 🚀 Current Journey
+## 🧠 Currently Exploring
 
 ```text
-Python ────────────────●
-Data Analysis ─────────●
-Machine Learning ──────●
-NLP ───────────────────●
-LLMs ──────────────────●
-RAG ───────────────────●
-AI Engineering ────────○
+🔹 Large Language Models (LLMs)
+🔹 Retrieval-Augmented Generation (RAG)
+🔹 NLP & Information Retrieval
+🔹 Machine Learning
+🔹 AI Engineering
 ```
 
 ---
 
-## ⚒️ Tech Stack
+## 🚀 What I'm Working Towards
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode" />
-</p>
+```text
+Today:
+  Learning how AI understands language
 
-<p align="center">
-🧠 Machine Learning • 📊 Data Analysis • 🔍 NLP • 🤖 LLMs • 📚 RAG
-</p>
+Next:
+  Building intelligent assistants
+
+Future:
+  Creating AI systems that solve real-world problems
+```
+
+---
+
+## ⚒️ Tech Toolbox
+
+🐍 Python
+
+🗄️ SQL
+
+📊 Data Analysis
+
+🧠 Machine Learning
+
+🔍 NLP
+
+🤖 LLMs
+
+📚 RAG
+
+🔧 Git & GitHub
 
 ---
 
 ## 🌍 Languages
 
-🇮🇳 Kannada — Native
+🇮🇳 Kannada (Native)
 
-🇮🇳 Tulu — Native
+🇮🇳 Tulu (Native)
 
-🇬🇧 English — Professional
+🇬🇧 English (Professional)
 
-🇮🇳 Hindi — Conversational
+🇮🇳 Hindi (Conversational)
 
 ---
 
-## ☕ Beyond Tech
+## ☕ Beyond Coding
 
-📚 Reading about AI and emerging technologies
+📖 Reading about AI and emerging technologies
 
-🎵 Listening to music
+🎵 Music
 
 ✈️ Exploring new places
 
-🧩 Solving real-world problems through technology
+📝 Learning in public
 
 ---
 
-## 🧩 My Mindset
+## 💭 My Philosophy
 
-✨ Stay Curious
-
-📖 Learn Continuously
-
-🤝 Share Knowledge
-
-🚀 Build Useful Things
-
-🎯 Focus on Impact
+> "The future belongs to those who learn faster than the world changes."
 
 ---
 
-## 💭 Philosophy
+## 📫 Connect
 
-> "Data reveals patterns.
-> AI discovers possibilities.
-> Curiosity creates innovation."
+📧 [kruthikashetty020@gmail.com](mailto:kruthikashetty020@gmail.com)
 
----
+🐙 github.com/Kruthikashetty04
 
-## 📫 Connect With Me
-
-📧 Email: **[kruthikashetty020@gmail.com](mailto:kruthikashetty020@gmail.com)**
-
-🐙 GitHub: **https://github.com/kruthikshetty04**
+💼 Open to AI, Data Science, and Research collaborations
 
 ---
 
-<div align="center">
+### ⚡ One Line About Me
 
-### ⚡ Fun Fact
-
-*"I'm fascinated by how machines learn, retrieve knowledge, and generate ideas."*
+*"Curious about data, fascinated by language, driven by AI."*
 
 </div>
